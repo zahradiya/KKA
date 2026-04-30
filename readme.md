@@ -89,21 +89,6 @@ Melihat hubungan antara:
 
 ---
 
-## 📷 Dokumentasi
-- Grafik tren penjualan
-![Grafik Penjualan](output/grafik_penjualan.png)
-- Bar chart kategori
-![Kategori](output/kategori.png)
-- Heatmap korelasi
-![Korelasi](output/korelasi.png)
-- Output terminal
-![Data awal](output/data_awal.png)
-![Analisis](output/analisis1.png)
-![Analisis](output/analisis2.png)
-
-
----
-
 ## 🚀 Kesimpulan
 Project ini membantu memahami:
 - Cara cleaning data
@@ -198,23 +183,6 @@ Menganalisis pengaruh Ad Budget terhadap Total Sales.
 
 ### 6. Heatmap Korelasi
 Menampilkan hubungan antar variabel numerik dalam dataset.
-
----
-
-## 📷 Output Visualisasi
-
-Hasil analisis akan tersimpan di folder `output/`:
-
-- underperformer.png
-![underperformer](output/underperformer.png)
-- efisiensi_kategori.png
-![Kategori](output/efisiensi_kategori.png)
-- perbandingan_iklan.png
-![perbandingan](output/perbandingan_iklan.png)
-- regresi.png
-![regresi](output/regresi.png)
-- heatmap.png
-![heatmap](output/heatmap.png)
 
 ---
 
